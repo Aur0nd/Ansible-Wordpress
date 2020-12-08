@@ -1,0 +1,2 @@
+[patching]
+web1 ansible_host='' ansible_ssh_private_key_file=LAMP.pem
